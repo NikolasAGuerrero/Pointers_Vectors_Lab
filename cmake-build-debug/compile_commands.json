@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\MICROS~3\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\HOSTAR~1\\arm64\\cl.exe  /nologo /TP -D_MBCS /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od -std:c++20 -MDd -RTC1 -Zi @CMakeFiles\\Pointers_Vectors_Lab.dir\\main.cpp.obj.modmap /FoCMakeFiles\\Pointers_Vectors_Lab.dir\\main.cpp.obj /FdCMakeFiles\\Pointers_Vectors_Lab.dir\\ /FS -c C:\\Users\\nikol\\CLionProjects\\Pointers_Vectors_Lab\\main.cpp",
+  "file": "C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/main.cpp",
+  "output": "C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug/CMakeFiles/Pointers_Vectors_Lab.dir/main.cpp.obj"
+}
+]

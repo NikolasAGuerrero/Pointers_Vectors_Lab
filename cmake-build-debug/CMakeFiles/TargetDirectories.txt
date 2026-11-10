@@ -1,0 +1,3 @@
+C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug/CMakeFiles/Pointers_Vectors_Lab.dir
+C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

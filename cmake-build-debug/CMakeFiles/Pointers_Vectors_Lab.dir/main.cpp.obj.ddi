@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Pointers_Vectors_Lab.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\nikol\\CLionProjects\\Pointers_Vectors_Lab\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Pointers_Vectors_Lab.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

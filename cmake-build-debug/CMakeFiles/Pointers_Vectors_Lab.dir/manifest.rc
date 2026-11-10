@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/nikol/CLionProjects/Pointers_Vectors_Lab/cmake-build-debug/CMakeFiles/Pointers_Vectors_Lab.dir/embed.manifest"
